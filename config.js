@@ -332,7 +332,15 @@ var config = {
             Dentro del palacio el grupo se divide. A Anakin para protegerlo, le obligan a que se quede dentro de la cabina de una nave. 
             Los jedis deben luchar contra Darth Maul, el caballero Sith que ya conocieran en Tatooine, consiguiendo matarle, pero él 
             también consigue matar a Qui-Gon Jinn. La princesa Padme, consigue reducir al virrey de la Federación de Comercio, gracias 
-            a que Anakin ha destruido la nave controladora de robots. <br><br> La batalla en el palacio de Naboo se filmó en los interiores 
+            a que Anakin ha destruido la nave controladora de robots. 
+            
+            <br>
+            
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/FeAi69lloYk?si=tKqCm2ON3CpfV3pz&amp;clip=UgkxpgIE1XNomsGQhsFoCJjUfRaWowNhsudL&amp;clipt=EMT_ARik1AU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+            <br> 
+            
+            La batalla en el palacio de Naboo se filmó en los interiores 
             del Palacio Real de Caserta, en Italia. Es un palacio barroco, muy en la imagen que se le quiere dar al pueblo de la superficie 
             de Naboo. El palacio se seguirá usando como set en las siguientes películas. 
         `,
