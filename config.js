@@ -136,10 +136,10 @@ var config = {
 
         `,
             location: {
-                center: [ 33.100115,   10.313737],
-                zoom: 14.5,
-                pitch: 60,
-                bearing: -43.2,
+                center: [ 10.31355, 33.10017],
+                zoom: 18.5,
+                pitch: 27,
+                bearing: 0,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
